@@ -22,16 +22,16 @@ favicon:
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/34339465.jpg
-  author_nickname: Oranges
+  author_photo: /images/noddd_logo.jpg
+  author_nickname: Not Only DDD 
 
 # Google 分析
 # https://analytics.google.com
 # 注册Google分析账号，在管理/创建媒体资源/选择网站/填写相关信息后得到跟踪Id，一般格式为UA-xxxxxxx-x
 # 如之前已有注册账号，在管理/跟踪信息/跟踪代码/找到跟踪ID，一般格式为UA-xxxxxxx-x
 gtag:
-  enable: false
-  gtagkey: UA-xxxxxxx-x
+  enable: true
+  gtagkey: UA-56494721-4
 
 # 文章评论系统
 comments:
@@ -52,9 +52,9 @@ comments:
   valine:
     # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
     # 进入以上网址查看官方教程
-    enable: false
-    appId:
-    appKey:
+    enable: true
+    appId: A7OHUAwCpOmCv1MrphXmST4T-gzGzoHsz
+    appKey: OIEUEYU0sqrlw7fMOG9XWWal
     placeholder: Welcome!
     avatar: retro
     vempty_display: false
@@ -90,7 +90,7 @@ navbar:
     enable: true
     path: /friends/
   -
-    name: 关于我
+    name: 关于
     enable: true
     path: /about/
 

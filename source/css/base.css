@@ -105,6 +105,7 @@ a:hover {
 .post-item {
   display: flex;
   font-size: 1.6rem;
+  font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   margin-bottom: 20px;
   align-items: center;
 }
@@ -170,6 +171,7 @@ a:hover {
   margin: 0 15px;
   font-size: 1.6rem;
   font-weight: bold;
+  font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .navbar ul li a {
@@ -391,9 +393,9 @@ a:hover {
 }
 
 .toc-link.active {
-  color: black;
+  color: #0e83cd;
   opacity: 1;
-  border-left: 2px solid black;
+  border-left: 2px solid #0e83cd;
 }
 
 .back-to-top {
