@@ -215,9 +215,9 @@
 }
 
 .markdown-body a {
-  color: #0e83cd;
+  color: #3273dc;
   text-decoration: none;
-  border-bottom: 1px solid #666;
+  # border-bottom: 1px solid #666;
   font-size: 1em;
   transition: color 0.3s;
 }
